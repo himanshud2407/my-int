@@ -1,0 +1,5 @@
+frontend/src/app:
+favicon.ico
+globals.css
+layout.tsx
+page.tsx

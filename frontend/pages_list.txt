@@ -1,0 +1,7 @@
+src/app/student/timetable/page.tsx
+src/app/page.tsx
+src/app/teacher/attendance/page.tsx
+src/app/admin/students/page.tsx
+src/app/admin/timetable/page.tsx
+src/app/admin/page.tsx
+src/app/login/page.tsx
